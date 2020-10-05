@@ -57,7 +57,7 @@ provider:
 #    - exclude-me.js
 #    - exclude-me-dir/**
 
-ffunctions:
+functions:
   hello:
     handler: handler.hello
   create:
